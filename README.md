@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satheeshs27" alt="satheeshs27" /></a> </p>
 
-- 🔭 I’m currently Studyin on [St.Joseph's Institute of Technology]((2021 - 2025))
+- 🔭 I’m currently Studying on [St.Joseph's Institute of Technology]((2021 - 2025))
 
 - 📫 How to reach me **satheesh272004@gmail.com**
 
