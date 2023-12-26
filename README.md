@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satheesh S</h1>
-<h3 align="center">A passionate frontend developer and Web Developer</h3>
+<h3 align="center">A passionate Web Developer AnD Java Devloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satheeshs27&label=Profile%20views&color=0e75b6&style=flat" alt="satheeshs27" /> </p>
 
